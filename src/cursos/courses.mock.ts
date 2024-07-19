@@ -1,4 +1,4 @@
-export const COURSES = [
+export const CURSOS = [
     {id: 1, title: 'Python Básico para Iniciantes', description: 'Para você que quer programar em Python ou ter uma base de programação para Data Science e Machine Learning'},
     {id: 2, title: 'Git e GitHub em 1 Hora', description: 'Um passo a passo direto ao ponto com versionamento usando Git e Github'},
     {id: 3, title: 'Aprenda Postman em 1 Hora', description: 'Aprenda a utilizar o Postman, o melhor software para automação de testes de API'},
